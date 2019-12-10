@@ -6,3 +6,5 @@ View supercointegrated_nn_part1.ipynb for part 1 which implements in Python:
 3. Formation of rolling conditional voltaility thresholds for the pairs.
 
 Part 2 coming soon: implementation of LSTM and GRU neural nets to find an optimal trading strategy.
+
+https://mybinder.org/v2/gh/adam-podgorski/nn-supercointegrated-pairs-trading/master
