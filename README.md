@@ -7,4 +7,4 @@ View supercointegrated_nn_part1.ipynb for part 1 which implements in Python:
 
 Part 2 coming soon: implementation of LSTM and GRU neural nets to find an optimal trading strategy.
 
-https://mybinder.org/v2/gh/adam-podgorski/nn-supercointegrated-pairs-trading/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adam-podgorski/nn-supercointegrated-pairs-trading/master)
